@@ -17,7 +17,7 @@ import { Component } from '@angular/core';
   `,
 })
 export class AppComponent  {  
-     nowTime:Any=Date();
+     nowTime:any=Date();
      items:number[]=[];
 	 constructor() {
        setTimeout(function(){alert('you have now been on the page for half a minute');}, 30000);

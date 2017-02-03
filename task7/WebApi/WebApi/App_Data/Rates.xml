@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<web_dis_rates>
+  <timestamp Desc="Senast uppdaterad:">2017-01-24 11:00</timestamp>
+  <row>
+    <swift_code>AUD</swift_code>
+    <swift_name>australienska Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>6,4996</buy_cash>
+    <buy_tc>6,3046</buy_tc>
+    <sell_cash>7,1534</sell_cash>
+    <sell_tc>7,2249</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="AUD" Amount="100">13,98</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>BSD</swift_code>
+    <swift_name>Bahamas Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>7,4913</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>9,7176</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="BSD" Amount="100">10,29</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>BHD</swift_code>
+    <swift_name>Dinar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>21,3981</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>25,7902</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="BHD" Amount="100">3,88</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>BBD</swift_code>
+    <swift_name>Barbados Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>4,1231</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>4,9166</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="BBD" Amount="100">20,34</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>BRL</swift_code>
+    <swift_name>Brasilianska Real</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>2,6017</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>3,0659</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="BRL" Amount="100">32,62</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>BGN</swift_code>
+    <swift_name>bulgariska Lev (New)</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>4,6578</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>5,1834</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="BGN" Amount="100">19,29</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>CLP</swift_code>
+    <swift_name>Chilenska Peso</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0124</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0150</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="CLP" Amount="100">6 666,67</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>COP</swift_code>
+    <swift_name>colombianska Peso</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0026</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0034</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="COP" Amount="100">29 411,76</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>DKK</swift_code>
+    <swift_name>danska Kronor</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,2249</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,3371</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="DKK" Amount="100">74,79</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>DOP</swift_code>
+    <swift_name>Dominikanska Peso Oro</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,1794</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,2114</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="DOP" Amount="100">473,04</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>EUR</swift_code>
+    <swift_name>Euro</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>9,1657</buy_cash>
+    <buy_tc>8,8907</buy_tc>
+    <sell_cash>10,0490</sell_cash>
+    <sell_tc>10,1495</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="EUR" Amount="100">9,95</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>FJD</swift_code>
+    <swift_name>Fiji Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>3,9095</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>4,8087</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="FJD" Amount="100">20,80</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>PHP</swift_code>
+    <swift_name>filippinska Peso</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,1651</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,1969</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="PHP" Amount="100">507,87</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>AED</swift_code>
+    <swift_name>arabiska Dirham</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>2,3083</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,6272</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="AED" Amount="100">38,06</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>GMD</swift_code>
+    <swift_name>Gambianska Dalasi</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,1838</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,2358</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="GMD" Amount="100">424,09</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>HKD</swift_code>
+    <swift_name>Hongkong Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,0940</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,2311</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="HKD" Amount="100">81,23</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>INR</swift_code>
+    <swift_name>indiska Rupee</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,1199</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,1438</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="INR" Amount="100">695,41</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>IDR</swift_code>
+    <swift_name>indonesiska Rupiah</swift_name>
+    <multiply>100</multiply>
+    <buy_cash>0,0615</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0742</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="IDR" Amount="100">134 770,89</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>ISK</swift_code>
+    <swift_name>isländska Krónur</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0703</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0829</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="ISK" Amount="100">1 206,27</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>ILS</swift_code>
+    <swift_name>israeliska NewSheqel</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>2,1907</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,5515</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="ILS" Amount="100">39,19</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>JMD</swift_code>
+    <swift_name>Jamaicanska Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0633</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0755</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="JMD" Amount="100">1 324,50</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>JPY</swift_code>
+    <swift_name>japanska Yen</swift_name>
+    <multiply>100</multiply>
+    <buy_cash>7,4829</buy_cash>
+    <buy_tc>7,2584</buy_tc>
+    <sell_cash>8,1843</sell_cash>
+    <sell_tc>8,2661</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="JPY" Amount="100">1 221,85</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>JOD</swift_code>
+    <swift_name>Jordanska Dinar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>11,6191</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>13,7732</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="JOD" Amount="100">7,26</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>CAD</swift_code>
+    <swift_name>Kanadensiska Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>6,4322</buy_cash>
+    <buy_tc>6,2392</buy_tc>
+    <sell_cash>6,9984</sell_cash>
+    <sell_tc>7,0684</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="CAD" Amount="100">14,29</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>KES</swift_code>
+    <swift_name>kenyanska Shilling</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0757</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0936</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="KES" Amount="100">1 068,38</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>CNY</swift_code>
+    <swift_name>kinesiska Yuan</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,2405</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,3960</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="CNY" Amount="100">71,63</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>KRW</swift_code>
+    <swift_name>Koreanska Won</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0070</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0084</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="KRW" Amount="100">11 904,76</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>HRK</swift_code>
+    <swift_name>kroatiska Kuna</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,2036</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,3545</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="HRK" Amount="100">73,83</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>KWD</swift_code>
+    <swift_name>Kuwait Dinar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>26,8814</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>31,7785</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="KWD" Amount="100">3,15</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>MYR</swift_code>
+    <swift_name>Malaysiska Ringgit</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,9052</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,1684</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="MYR" Amount="100">46,12</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>MAD</swift_code>
+    <swift_name>Marockanska Dirham</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,7681</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,0456</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="MAD" Amount="100">95,64</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>MUR</swift_code>
+    <swift_name>Mauritius Rupee</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,2292</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,2766</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="MUR" Amount="100">361,53</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>MXN</swift_code>
+    <swift_name>Mexicanska Peso</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,3955</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,4553</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="MXN" Amount="100">219,64</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>NOK</swift_code>
+    <swift_name>Norska Kroner</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,0070</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,0998</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="NOK" Amount="100">90,93</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>NZD</swift_code>
+    <swift_name>Nya Zeeländska Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>6,1243</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>6,8921</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="NZD" Amount="100">14,51</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>OMR</swift_code>
+    <swift_name>Oman Rial</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>21,2843</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>25,3808</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="OMR" Amount="100">3,94</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>PLN</swift_code>
+    <swift_name>Polska NewZloty</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>2,0740</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,3340</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="PLN" Amount="100">42,84</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>RON</swift_code>
+    <swift_name>Rumänska Lei (new)</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,9704</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,3220</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="RON" Amount="100">43,07</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>RUB</swift_code>
+    <swift_name>ryska Rubel</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,1304</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,1654</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="RUB" Amount="100">604,59</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>SAR</swift_code>
+    <swift_name>Saudiarabiska Riyal</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>2,1357</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,5153</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="SAR" Amount="100">39,76</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>CHF</swift_code>
+    <swift_name>Schweiziska Francs</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>8,4778</buy_cash>
+    <buy_tc>8,2235</buy_tc>
+    <sell_cash>9,2000</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="CHF" Amount="100">10,87</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>SGD</swift_code>
+    <swift_name>singapore Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>5,7483</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>6,6950</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="SGD" Amount="100">14,94</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>GBP</swift_code>
+    <swift_name>engelska Pund</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>10,4735</buy_cash>
+    <buy_tc>10,1593</buy_tc>
+    <sell_cash>11,6553</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="GBP" Amount="100">8,58</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>ZAR</swift_code>
+    <swift_name>sydafrikanska Rand</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,6321</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,7113</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="ZAR" Amount="100">140,59</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>TWD</swift_code>
+    <swift_name>Taiwanesiska  New Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,2616</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,3110</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="TWD" Amount="100">321,54</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>THB</swift_code>
+    <swift_name>thailändska Baht</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,2348</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,2754</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="THB" Amount="100">363,11</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>CZK</swift_code>
+    <swift_name>tjeckiska Koruna</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,3409</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,3794</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="CZK" Amount="100">263,57</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>TTD</swift_code>
+    <swift_name>Trinidad + Tobago Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>1,2124</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>1,4662</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="TTD" Amount="100">68,20</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>TRY</swift_code>
+    <swift_name>Turkiska Lira</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>2,2739</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>2,5881</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="TRY" Amount="100">38,64</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>HUF</swift_code>
+    <swift_name>ungerska Forint</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>0,0297</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0330</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="HUF" Amount="100">3 030,30</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>USD</swift_code>
+    <swift_name>amerikanska Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>8,5199</buy_cash>
+    <buy_tc>8,2643</buy_tc>
+    <sell_cash>9,3801</sell_cash>
+    <sell_tc>9,4739</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="USD" Amount="100">10,66</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>VND</swift_code>
+    <swift_name>Vietnamesiska NewDong</swift_name>
+    <multiply>100</multiply>
+    <buy_cash>0,0343</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>0,0473</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="VND" Amount="100">211 416,49</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <row>
+    <swift_code>XCD</swift_code>
+    <swift_name>Öst Karibiska Dollar</swift_name>
+    <multiply>1</multiply>
+    <buy_cash>3,0431</buy_cash>
+    <buy_tc>-</buy_tc>
+    <sell_cash>3,6392</sell_cash>
+    <sell_tc>-</sell_tc>
+    <CurrencyGuide BaseSwift="SEK" Swift="XCD" Amount="100">27,48</CurrencyGuide>
+    <base_swift>SEK</base_swift>
+  </row>
+  <copyright>Copyright FOREX Bank AB 2017</copyright>
+</web_dis_rates>
